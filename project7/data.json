@@ -1,0 +1,62 @@
+{
+  "trending": [
+    {
+      "title": "Beyond Earth",
+      "year": 2019,
+      "type": "Movie",
+      "rating": "PG",
+      "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.Gq_-rT-Us01YgabRSFK4XAHaEo?pid=Api&P=0&h=180"
+    },
+    {
+      "title": "Bottom Gear",
+      "year": 2021,
+      "type": "Movie",
+      "rating": "PG",
+      "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.VL98MGUB6kYzf0W97d_S5QHaEK?pid=Api&P=0&h=0"
+    },
+    {
+      "title": "Earth's Untouched",
+      "year": 2019,
+      "type": "movie",
+      "rating":"pg",
+      "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.ZlEq9oTSx5lfTEiivFDBfQHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "title": "undiscover Cities",
+      "year": 2019,
+      "type": "movie",
+      "rating":"pg",
+      "thumbnail": "https://tse2.mm.bing.net/th/id/OIP.nBE36xp5eGLaFltSL41ODQHaC9?pid=Api&P=0&h=180"
+    }
+  ],
+  "recommended": [
+    {
+      "title": "The Diary",
+      "year": 2019,
+      "type": "TV Series",
+      "rating": "PG",
+      "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.rSAyN2sJsgHqcVys1jTSPwHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "title": "during the hunt",
+      "year": 2019,
+      "type": "movie",
+      "rating":"pg",
+      "thumbnail": "https://tse3.mm.bing.net/th/id/OIP.BAiv1mWnPpDxqbLUY66QegHaEA?pid=Api&P=0&h=180"
+    },
+    {
+      "title": "No Land Beyond",
+      "year": 2019,
+      "type": "Movie",
+      "rating": "E",
+      "thumbnail": "https://tse1.mm.bing.net/th/id/OIP._XpInCexpby-QJyEuVPysQHaEK?pid=Api&P=0&h=180"
+    },
+    {
+      "title": "Below Echo",
+      "year": 2019,
+      "type": "movie",
+      "rating":"pg",
+      "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.tVyV_DGJ84KjVZ46xNiRbwHaEK?pid=Api&P=0&h=180"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  display: flex;
+  background-color: #0f1116;
+  color: white;
+  margin-top:2%;
+  margin-left: 3%;
+  margin-bottom:2%;
+}
+
+.sidebar {
+  width: 60px;
+  background: #1c1e26;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem 0;
+}
+.logo{
+    font-size:xx-large;
+}
+
+.sidebar nav a {
+  color: white;
+  font-size: 1.5rem;
+  text-decoration: none;
+  
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 1rem;
+  
+
+}
+
+#searchInput {
+  width: 100%;
+  padding: 0.9rem;
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  /* opacity: 50%; */
+  background-color:#121218;
+  
+}
+
+.section {
+  margin-bottom: 8rem;
+  margin-left: 1rem;
+}
+
+.section h2 {
+  margin-bottom: 1rem;
+}
+
+.grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+}
+
+.card {
+  background: #23252b;
+  padding: 1rem;
+  border-radius: 10px;
+  position: relative;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 0.9rem;
+
+}
+
+.card button {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
